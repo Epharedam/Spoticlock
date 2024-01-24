@@ -79,4 +79,4 @@ $ path/to/now-clocking/start.sh
 
 
 ## Recursos: 
-<p align="center">Créditos a <i><a href="https://github.com/gamehelp16">@gamehelp16</a> , <a href="https://github.com/Rayzr522">@Rayzr522</a> y <a href="https://pastebin.com/wVqEfjf8">Background</a> por usarlos como guías/refs y base</i></p>
+<p align="center">Créditos a <i><a href="https://github.com/gamehelp16">@gamehelp16</a> , <a href="https://github.com/Rayzr522">@Rayzr522</a> y <a href="https://pastebin.com/wVqEfjf8">d0d090 </a> por usarlos como guías/refs y base</i></p>
