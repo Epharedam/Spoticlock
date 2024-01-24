@@ -18,7 +18,7 @@
   - [Fuentes](#fuentes)
   - [Reproductores](#reproductores)
 - [Instalación](#instalación)
-- [Créditos y Recursos](#créditos y recursos)
+- [Recursos](#recursos)
 
 ## Requisitos
 
@@ -78,5 +78,5 @@ $ path/to/now-clocking/start.sh
 ```
 
 
-## CREDITOS Y RECURSOS: 
-<p align="center"><i><a href="https://github.com/gamehelp16">@gamehelp16</a> , <a href="https://github.com/Rayzr522">@Rayzr522</a> y <a href="https://pastebin.com/wVqEfjf8">Background</a></i></p>
+## Recursos: 
+<p align="center">Créditos a <i><a href="https://github.com/gamehelp16">@gamehelp16</a> , <a href="https://github.com/Rayzr522">@Rayzr522</a> y <a href="https://pastebin.com/wVqEfjf8">Background</a> por usarlos como guías/refs y base</i></p>
