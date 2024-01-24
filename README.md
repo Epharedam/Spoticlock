@@ -1,4 +1,4 @@
-<h1 align="center">Spotify Widget con Reloj</h1>
+<h1 align="center">Spoti-clockj</h1>
 
 ## Características
 
