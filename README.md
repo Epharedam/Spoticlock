@@ -1,4 +1,4 @@
-<h1 align="center">Spoti-clockj</h1>
+<h1 align="center">Spoti-clock</h1>
 
 ## Características
 
