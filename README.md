@@ -7,8 +7,8 @@
 - Funciona como un reloj cuando no hay una canción reproduciéndose.
 
 <div align="center" style="display:inline">
-<img alt="Screenshot del reloj" src="img/relojw.png" width="416px" />
-<img alt="Screenshot de spotify" src="img/spotifyw.png" width="416px" />
+<img alt="Screenshot del reloj" src="img/relojw.png" width="1016px" />
+<img alt="Screenshot de spotify" src="img/spotifyw.png" width="1016px" />
 </div>
 
 ### Tabla de contenido
